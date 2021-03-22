@@ -1,1 +1,1 @@
-A real time system for crime hotspot alerts
+A real time system for crime hotspot alert using elastic search.
